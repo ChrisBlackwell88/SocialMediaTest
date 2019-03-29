@@ -1,5 +1,22 @@
 # SocialMediaTest
 
+<pre>
+	<article>
+        <div>
+            <p>Facebook web</p>
+            <a id="facebook-web" class="facebook-web" href="https://facebook.com/christopher.blackwell.501" target="_blank">
+                <img src="assets/img/facebook-icon.png" alt="facebook" height="42" width="42">
+            </a>
+        </div>
+        <div>
+            <p>Facebook iOS app</p>
+            <a id="facebook-ios-app" class="facebook-web" href="fb://profile/christopher.blackwell.501" target="_blank">
+                <img src="assets/img/facebook-icon.png" alt="facebook" height="42" width="42">
+            </a>
+        </div>
+    </article>
+</pre>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
