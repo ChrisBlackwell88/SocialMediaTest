@@ -1,6 +1,6 @@
 # SocialMediaTest
 
-<pre>
+
 	<article>
         <div>
             <p>Facebook web</p>
@@ -15,7 +15,7 @@
             </a>
         </div>
     </article>
-</pre>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
