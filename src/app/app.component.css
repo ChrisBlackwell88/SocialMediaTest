@@ -1,0 +1,9 @@
+.facebook-section {
+    width: 100%;
+    text-align: center;
+}
+
+.facebook-web,
+.facebook-ios-app {
+    margin: 1%;
+}
